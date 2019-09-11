@@ -66,3 +66,5 @@ venv/
 
 db.sqlite3
 
+djangoecommerce/settings.py
+
